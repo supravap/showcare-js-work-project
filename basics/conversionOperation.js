@@ -21,3 +21,13 @@ console.log(booleanIsLoggedIn)
 // undefined => false
 // "suprava" => true
 // null => false
+
+/* ***operations*** */
+console.log(3 + 2 + "2")
+
+let gameCounter = 100
+gameCounter++
+++gameCounter
+
+console.log(gameCounter)
+console.log(gameCounter)
